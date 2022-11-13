@@ -1,7 +1,16 @@
-### Hi there 👋
+# Welcome! My github page.
 
-https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
-#E34F26
+### I'm web frontend devolper.
+### I'm currently learning NodeJS and React Hooks.
+<br><br><br><br>
+
+----
+## My tech stack
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white)
+![VanillaJS](https://img.shields.io/badge/VanillaJS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
 <!--
 **Ichanho/ichanho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
